@@ -10,6 +10,8 @@ The Systems Biology Simulation Core Library (SBSCL) provides an efficient and ex
 
 When using this library, please cite: http://www.biomedcentral.com/1752-0509/7/55.
 
+More information about GSoC 2018 summer work can be found on [GitHub wiki page](https://github.com/shalinshah1993/SBSCL/wiki/SBSCL-wiki-page-for-GSoC-2018).
+
 #### Categories
 Bio-Informatics, Libraries, Simulations
 
